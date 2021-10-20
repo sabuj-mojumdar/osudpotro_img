@@ -1,0 +1,1172 @@
+[
+    {
+        "catid": 1,
+        "cattitle": "Gastrointestinal",
+        "catimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/gastrointestinal.webp",
+        "catwise": [
+            {
+                "catwiseid": 1,
+                "title": "Neocort",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e1.webp",
+                "company": "The IBN SINA Pharmaceutical Industry Ltd.",
+                "price": 17.60,
+                "prevprice": 18.53,
+                "free": 5,
+                "Indications": "Neocort Cream/Ointment is demonstrated for the treatment of the taking after conditions where auxiliary bacterial disease is show, suspected or likely to happen: dermatitis counting atopic, puerile and discoid eczemas; prurigo nodularis; psoriasis (barring broad plaque psoriasis); neurodermatoses, counting lichen simplex, lichen planus; Seborrhoeic dermatitis; butt-centric and genital intertrigo; contact affectability responses; discoid lupus erythematosus. Neocort can too be utilized within the administration of creepy crawly chomps, thorny warm and otitis externa.",
+                "Generic": "Betamethasone + Neomycin Sulfate"
+            },
+            {
+                "catwiseid": 2,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e2.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 31.98,
+                "prevprice": 33.66,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 3,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e3.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 33.48,
+                "prevprice": 35.24,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 4,
+                "title": "Betameson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e4.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 42.75,
+                "prevprice": 45.00,
+                "free": 5,
+                "Indications": "Inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatitis, such as atopic eczema, contact dermatitis, etc.",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 5,
+                "title": "Prosalic Lotion 25 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e5.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 142.93,
+                "prevprice": 150.45,
+                "free": 5,
+                "Indications": "Eczema, Psoriasis, and other inflammatory, dry, and scaly skin disorders are treated with this Scalp preparation.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 6,
+                "title": "Betamesal",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e6.webp",
+                "company": "Incepta Pharmaceuticals Ltd",
+                "price": 95.00,
+                "prevprice": 100.00,
+                "free": 5,
+                "Indications": "This Scalp planning is utilized to treat fiery, dry and flaky skin disarranges, such as Dermatitis, Psoriasis.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 7,
+                "title": "Calamin M 100 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/default.webp",
+                "company": "Amico Laboratories Ltd",
+                "price": 38.00,
+                "prevprice": 40.00,
+                "free": 5,
+                "Indications": "Poison ivy, poison oak, and poison sumac are examples of mild skin irritations that can cause pain, itching, and discomfort. It also aids in the drying of seeping and weeping caused by these plants' irritation.",
+                "Generic": "Calamine + Zinc Oxide + Glycerine"
+            },
+            {
+                "catwiseid": 8,
+                "title": "Nebanol 20",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e8.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 41.86,
+                "prevprice": 44.06,
+                "free": 5,
+                "Indications": "This is indicated in the treatment of topical bacterial infections. This is particularly effective in atopic, contact stasis and infections, eczematoid dermatitis, neurodermatitis, eczema, anogenital pruritus. It may also be useful as an adjunct in certain pyodermas, such as impetigo, during specific systemic antibiotic therapy for these infections.",
+                "Generic": "Neomycin Sulfate + Bacitracin Zinc"
+            },
+            {
+                "catwiseid": 9,
+                "title": "Cevion 1000",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e9.webp",
+                "company": "HEALTH CARE PHARMACEUTICAL LTD",
+                "price": 76.78,
+                "prevprice": 80.82,
+                "free": 5,
+                "Indications": "Scurvy is a disease that can be prevented and treated with vitamin C. It may be used in the following situations: pregnancy, breastfeeding, infection, trauma, burns, cold exposure, post-surgery, fever, stress, peptic ulcer, cancer, methaemoglobinaemia, and newborns fed unfortified formulas. Haematuria, dental caries, pyorrhea, acne, infertility, atherosclerosis, fractures, leg ulcers, hay fever, vascular thrombosis prophylaxis, levodopa toxicity, succinyl-choline toxicity, and arsenic toxicity are among the conditions for which it is given. Long-term vitamin C intake is necessary to lower the risk of stroke in the elderly.",
+                "Generic": "Vitamin C [Ascorbic acid]"
+            },
+            {
+                "catwiseid": 10,
+                "title": "Bet-A 0.50",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e1.webp",
+                "company": "The ACME Laboratories Ltd.",
+                "price": 0.68,
+                "prevprice": 0.72,
+                "free": 5,
+                "Indications": "Betamethasone Soluble Tablets are a type of drug known as a steroid. Corticosteroids is their full name. These corticosteroids are produced by the body and aid in the maintenance of health and well-being. Adding more corticosteroids to your body (such as Betamethasone Soluble Tablets) is an efficient strategy to treat a variety of disorders requiring inflammation. Betamethasone Soluble Tablets help to minimize inflammation, which could otherwise aggravate your disease. To obtain the most benefit from this medicine, you must take it on a regular basis. Corticosteroids can help with a variety of illnesses by reducing inflammation (redness, soreness, heat, and swelling).",
+                "Generic": "Betamethasone"
+            }
+        ]
+    },
+    {
+        "catid": 2,
+        "cattitle": "Eczema",
+        "catimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/eczema.webp",
+        "catwise": [
+            {
+                "catwiseid": 1,
+                "title": "Neocort",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e1.webp",
+                "company": "The IBN SINA Pharmaceutical Industry Ltd.",
+                "price": 17.60,
+                "prevprice": 18.53,
+                "free": 5,
+                "Indications": "Neocort Cream/Ointment is demonstrated for the treatment of the taking after conditions where auxiliary bacterial disease is show, suspected or likely to happen: dermatitis counting atopic, puerile and discoid eczemas; prurigo nodularis; psoriasis (barring broad plaque psoriasis); neurodermatoses, counting lichen simplex, lichen planus; Seborrhoeic dermatitis; butt-centric and genital intertrigo; contact affectability responses; discoid lupus erythematosus. Neocort can too be utilized within the administration of creepy crawly chomps, thorny warm and otitis externa.",
+                "Generic": "Betamethasone + Neomycin Sulfate"
+            },
+            {
+                "catwiseid": 2,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e2.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 31.98,
+                "prevprice": 33.66,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 3,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e3.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 33.48,
+                "prevprice": 35.24,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 4,
+                "title": "Betameson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e4.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 42.75,
+                "prevprice": 45.00,
+                "free": 5,
+                "Indications": "Inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatitis, such as atopic eczema, contact dermatitis, etc.",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 5,
+                "title": "Prosalic Lotion 25 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e5.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 142.93,
+                "prevprice": 150.45,
+                "free": 5,
+                "Indications": "Eczema, Psoriasis, and other inflammatory, dry, and scaly skin disorders are treated with this Scalp preparation.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 6,
+                "title": "Betamesal",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e6.webp",
+                "company": "Incepta Pharmaceuticals Ltd",
+                "price": 95.00,
+                "prevprice": 100.00,
+                "free": 5,
+                "Indications": "This Scalp planning is utilized to treat fiery, dry and flaky skin disarranges, such as Dermatitis, Psoriasis.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 7,
+                "title": "Calamin M 100 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/default.webp",
+                "company": "Amico Laboratories Ltd",
+                "price": 38.00,
+                "prevprice": 40.00,
+                "free": 5,
+                "Indications": "Poison ivy, poison oak, and poison sumac are examples of mild skin irritations that can cause pain, itching, and discomfort. It also aids in the drying of seeping and weeping caused by these plants' irritation.",
+                "Generic": "Calamine + Zinc Oxide + Glycerine"
+            },
+            {
+                "catwiseid": 8,
+                "title": "Nebanol 20",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e8.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 41.86,
+                "prevprice": 44.06,
+                "free": 5,
+                "Indications": "This is indicated in the treatment of topical bacterial infections. This is particularly effective in atopic, contact stasis and infections, eczematoid dermatitis, neurodermatitis, eczema, anogenital pruritus. It may also be useful as an adjunct in certain pyodermas, such as impetigo, during specific systemic antibiotic therapy for these infections.",
+                "Generic": "Neomycin Sulfate + Bacitracin Zinc"
+            },
+            {
+                "catwiseid": 9,
+                "title": "Cevion 1000",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e9.webp",
+                "company": "HEALTH CARE PHARMACEUTICAL LTD",
+                "price": 76.78,
+                "prevprice": 80.82,
+                "free": 5,
+                "Indications": "Scurvy is a disease that can be prevented and treated with vitamin C. It may be used in the following situations: pregnancy, breastfeeding, infection, trauma, burns, cold exposure, post-surgery, fever, stress, peptic ulcer, cancer, methaemoglobinaemia, and newborns fed unfortified formulas. Haematuria, dental caries, pyorrhea, acne, infertility, atherosclerosis, fractures, leg ulcers, hay fever, vascular thrombosis prophylaxis, levodopa toxicity, succinyl-choline toxicity, and arsenic toxicity are among the conditions for which it is given. Long-term vitamin C intake is necessary to lower the risk of stroke in the elderly.",
+                "Generic": "Vitamin C [Ascorbic acid]"
+            },
+            {
+                "catwiseid": 10,
+                "title": "Bet-A 0.50",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e1.webp",
+                "company": "The ACME Laboratories Ltd.",
+                "price": 0.68,
+                "prevprice": 0.72,
+                "free": 5,
+                "Indications": "Betamethasone Soluble Tablets are a type of drug known as a steroid. Corticosteroids is their full name. These corticosteroids are produced by the body and aid in the maintenance of health and well-being. Adding more corticosteroids to your body (such as Betamethasone Soluble Tablets) is an efficient strategy to treat a variety of disorders requiring inflammation. Betamethasone Soluble Tablets help to minimize inflammation, which could otherwise aggravate your disease. To obtain the most benefit from this medicine, you must take it on a regular basis. Corticosteroids can help with a variety of illnesses by reducing inflammation (redness, soreness, heat, and swelling).",
+                "Generic": "Betamethasone"
+            }
+        ]
+    },
+    {
+        "catid": 3,
+        "cattitle": "Nasal",
+        "catimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/nasal.webp",
+        "catwise": [
+            {
+                "catwiseid": 1,
+                "title": "Neocort",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e1.webp",
+                "company": "The IBN SINA Pharmaceutical Industry Ltd.",
+                "price": 17.60,
+                "prevprice": 18.53,
+                "free": 5,
+                "Indications": "Neocort Cream/Ointment is demonstrated for the treatment of the taking after conditions where auxiliary bacterial disease is show, suspected or likely to happen: dermatitis counting atopic, puerile and discoid eczemas; prurigo nodularis; psoriasis (barring broad plaque psoriasis); neurodermatoses, counting lichen simplex, lichen planus; Seborrhoeic dermatitis; butt-centric and genital intertrigo; contact affectability responses; discoid lupus erythematosus. Neocort can too be utilized within the administration of creepy crawly chomps, thorny warm and otitis externa.",
+                "Generic": "Betamethasone + Neomycin Sulfate"
+            },
+            {
+                "catwiseid": 2,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e2.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 31.98,
+                "prevprice": 33.66,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 3,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e3.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 33.48,
+                "prevprice": 35.24,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 4,
+                "title": "Betameson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e4.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 42.75,
+                "prevprice": 45.00,
+                "free": 5,
+                "Indications": "Inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatitis, such as atopic eczema, contact dermatitis, etc.",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 5,
+                "title": "Prosalic Lotion 25 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e5.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 142.93,
+                "prevprice": 150.45,
+                "free": 5,
+                "Indications": "Eczema, Psoriasis, and other inflammatory, dry, and scaly skin disorders are treated with this Scalp preparation.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 6,
+                "title": "Betamesal",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e6.webp",
+                "company": "Incepta Pharmaceuticals Ltd",
+                "price": 95.00,
+                "prevprice": 100.00,
+                "free": 5,
+                "Indications": "This Scalp planning is utilized to treat fiery, dry and flaky skin disarranges, such as Dermatitis, Psoriasis.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 7,
+                "title": "Calamin M 100 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/default.webp",
+                "company": "Amico Laboratories Ltd",
+                "price": 38.00,
+                "prevprice": 40.00,
+                "free": 5,
+                "Indications": "Poison ivy, poison oak, and poison sumac are examples of mild skin irritations that can cause pain, itching, and discomfort. It also aids in the drying of seeping and weeping caused by these plants' irritation.",
+                "Generic": "Calamine + Zinc Oxide + Glycerine"
+            },
+            {
+                "catwiseid": 8,
+                "title": "Nebanol 20",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e8.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 41.86,
+                "prevprice": 44.06,
+                "free": 5,
+                "Indications": "This is indicated in the treatment of topical bacterial infections. This is particularly effective in atopic, contact stasis and infections, eczematoid dermatitis, neurodermatitis, eczema, anogenital pruritus. It may also be useful as an adjunct in certain pyodermas, such as impetigo, during specific systemic antibiotic therapy for these infections.",
+                "Generic": "Neomycin Sulfate + Bacitracin Zinc"
+            },
+            {
+                "catwiseid": 9,
+                "title": "Cevion 1000",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e9.webp",
+                "company": "HEALTH CARE PHARMACEUTICAL LTD",
+                "price": 76.78,
+                "prevprice": 80.82,
+                "free": 5,
+                "Indications": "Scurvy is a disease that can be prevented and treated with vitamin C. It may be used in the following situations: pregnancy, breastfeeding, infection, trauma, burns, cold exposure, post-surgery, fever, stress, peptic ulcer, cancer, methaemoglobinaemia, and newborns fed unfortified formulas. Haematuria, dental caries, pyorrhea, acne, infertility, atherosclerosis, fractures, leg ulcers, hay fever, vascular thrombosis prophylaxis, levodopa toxicity, succinyl-choline toxicity, and arsenic toxicity are among the conditions for which it is given. Long-term vitamin C intake is necessary to lower the risk of stroke in the elderly.",
+                "Generic": "Vitamin C [Ascorbic acid]"
+            },
+            {
+                "catwiseid": 10,
+                "title": "Bet-A 0.50",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e1.webp",
+                "company": "The ACME Laboratories Ltd.",
+                "price": 0.68,
+                "prevprice": 0.72,
+                "free": 5,
+                "Indications": "Betamethasone Soluble Tablets are a type of drug known as a steroid. Corticosteroids is their full name. These corticosteroids are produced by the body and aid in the maintenance of health and well-being. Adding more corticosteroids to your body (such as Betamethasone Soluble Tablets) is an efficient strategy to treat a variety of disorders requiring inflammation. Betamethasone Soluble Tablets help to minimize inflammation, which could otherwise aggravate your disease. To obtain the most benefit from this medicine, you must take it on a regular basis. Corticosteroids can help with a variety of illnesses by reducing inflammation (redness, soreness, heat, and swelling).",
+                "Generic": "Betamethasone"
+            }
+        ]
+    },
+    {
+        "catid": 4,
+        "cattitle": "Gastric",
+        "catimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/gastric.png",
+        "catwise": [
+            {
+                "catwiseid": 1,
+                "title": "Neocort",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e1.webp",
+                "company": "The IBN SINA Pharmaceutical Industry Ltd.",
+                "price": 17.60,
+                "prevprice": 18.53,
+                "free": 5,
+                "Indications": "Neocort Cream/Ointment is demonstrated for the treatment of the taking after conditions where auxiliary bacterial disease is show, suspected or likely to happen: dermatitis counting atopic, puerile and discoid eczemas; prurigo nodularis; psoriasis (barring broad plaque psoriasis); neurodermatoses, counting lichen simplex, lichen planus; Seborrhoeic dermatitis; butt-centric and genital intertrigo; contact affectability responses; discoid lupus erythematosus. Neocort can too be utilized within the administration of creepy crawly chomps, thorny warm and otitis externa.",
+                "Generic": "Betamethasone + Neomycin Sulfate"
+            },
+            {
+                "catwiseid": 2,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e2.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 31.98,
+                "prevprice": 33.66,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 3,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e3.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 33.48,
+                "prevprice": 35.24,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 4,
+                "title": "Betameson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e4.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 42.75,
+                "prevprice": 45.00,
+                "free": 5,
+                "Indications": "Inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatitis, such as atopic eczema, contact dermatitis, etc.",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 5,
+                "title": "Prosalic Lotion 25 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e5.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 142.93,
+                "prevprice": 150.45,
+                "free": 5,
+                "Indications": "Eczema, Psoriasis, and other inflammatory, dry, and scaly skin disorders are treated with this Scalp preparation.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 6,
+                "title": "Betamesal",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e6.webp",
+                "company": "Incepta Pharmaceuticals Ltd",
+                "price": 95.00,
+                "prevprice": 100.00,
+                "free": 5,
+                "Indications": "This Scalp planning is utilized to treat fiery, dry and flaky skin disarranges, such as Dermatitis, Psoriasis.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 7,
+                "title": "Calamin M 100 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/default.webp",
+                "company": "Amico Laboratories Ltd",
+                "price": 38.00,
+                "prevprice": 40.00,
+                "free": 5,
+                "Indications": "Poison ivy, poison oak, and poison sumac are examples of mild skin irritations that can cause pain, itching, and discomfort. It also aids in the drying of seeping and weeping caused by these plants' irritation.",
+                "Generic": "Calamine + Zinc Oxide + Glycerine"
+            },
+            {
+                "catwiseid": 8,
+                "title": "Nebanol 20",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e8.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 41.86,
+                "prevprice": 44.06,
+                "free": 5,
+                "Indications": "This is indicated in the treatment of topical bacterial infections. This is particularly effective in atopic, contact stasis and infections, eczematoid dermatitis, neurodermatitis, eczema, anogenital pruritus. It may also be useful as an adjunct in certain pyodermas, such as impetigo, during specific systemic antibiotic therapy for these infections.",
+                "Generic": "Neomycin Sulfate + Bacitracin Zinc"
+            },
+            {
+                "catwiseid": 9,
+                "title": "Cevion 1000",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e9.webp",
+                "company": "HEALTH CARE PHARMACEUTICAL LTD",
+                "price": 76.78,
+                "prevprice": 80.82,
+                "free": 5,
+                "Indications": "Scurvy is a disease that can be prevented and treated with vitamin C. It may be used in the following situations: pregnancy, breastfeeding, infection, trauma, burns, cold exposure, post-surgery, fever, stress, peptic ulcer, cancer, methaemoglobinaemia, and newborns fed unfortified formulas. Haematuria, dental caries, pyorrhea, acne, infertility, atherosclerosis, fractures, leg ulcers, hay fever, vascular thrombosis prophylaxis, levodopa toxicity, succinyl-choline toxicity, and arsenic toxicity are among the conditions for which it is given. Long-term vitamin C intake is necessary to lower the risk of stroke in the elderly.",
+                "Generic": "Vitamin C [Ascorbic acid]"
+            },
+            {
+                "catwiseid": 10,
+                "title": "Bet-A 0.50",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e1.webp",
+                "company": "The ACME Laboratories Ltd.",
+                "price": 0.68,
+                "prevprice": 0.72,
+                "free": 5,
+                "Indications": "Betamethasone Soluble Tablets are a type of drug known as a steroid. Corticosteroids is their full name. These corticosteroids are produced by the body and aid in the maintenance of health and well-being. Adding more corticosteroids to your body (such as Betamethasone Soluble Tablets) is an efficient strategy to treat a variety of disorders requiring inflammation. Betamethasone Soluble Tablets help to minimize inflammation, which could otherwise aggravate your disease. To obtain the most benefit from this medicine, you must take it on a regular basis. Corticosteroids can help with a variety of illnesses by reducing inflammation (redness, soreness, heat, and swelling).",
+                "Generic": "Betamethasone"
+            }
+        ]
+    },
+    {
+        "catid": 5,
+        "cattitle": "Zinc Deficiency",
+        "catimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/zinc.png",
+        "catwise": [
+            {
+                "catwiseid": 1,
+                "title": "Neocort",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e1.webp",
+                "company": "The IBN SINA Pharmaceutical Industry Ltd.",
+                "price": 17.60,
+                "prevprice": 18.53,
+                "free": 5,
+                "Indications": "Neocort Cream/Ointment is demonstrated for the treatment of the taking after conditions where auxiliary bacterial disease is show, suspected or likely to happen: dermatitis counting atopic, puerile and discoid eczemas; prurigo nodularis; psoriasis (barring broad plaque psoriasis); neurodermatoses, counting lichen simplex, lichen planus; Seborrhoeic dermatitis; butt-centric and genital intertrigo; contact affectability responses; discoid lupus erythematosus. Neocort can too be utilized within the administration of creepy crawly chomps, thorny warm and otitis externa.",
+                "Generic": "Betamethasone + Neomycin Sulfate"
+            },
+            {
+                "catwiseid": 2,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e2.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 31.98,
+                "prevprice": 33.66,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 3,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e3.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 33.48,
+                "prevprice": 35.24,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 4,
+                "title": "Betameson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e4.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 42.75,
+                "prevprice": 45.00,
+                "free": 5,
+                "Indications": "Inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatitis, such as atopic eczema, contact dermatitis, etc.",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 5,
+                "title": "Prosalic Lotion 25 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e5.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 142.93,
+                "prevprice": 150.45,
+                "free": 5,
+                "Indications": "Eczema, Psoriasis, and other inflammatory, dry, and scaly skin disorders are treated with this Scalp preparation.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 6,
+                "title": "Betamesal",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e6.webp",
+                "company": "Incepta Pharmaceuticals Ltd",
+                "price": 95.00,
+                "prevprice": 100.00,
+                "free": 5,
+                "Indications": "This Scalp planning is utilized to treat fiery, dry and flaky skin disarranges, such as Dermatitis, Psoriasis.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 7,
+                "title": "Calamin M 100 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/default.webp",
+                "company": "Amico Laboratories Ltd",
+                "price": 38.00,
+                "prevprice": 40.00,
+                "free": 5,
+                "Indications": "Poison ivy, poison oak, and poison sumac are examples of mild skin irritations that can cause pain, itching, and discomfort. It also aids in the drying of seeping and weeping caused by these plants' irritation.",
+                "Generic": "Calamine + Zinc Oxide + Glycerine"
+            },
+            {
+                "catwiseid": 8,
+                "title": "Nebanol 20",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e8.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 41.86,
+                "prevprice": 44.06,
+                "free": 5,
+                "Indications": "This is indicated in the treatment of topical bacterial infections. This is particularly effective in atopic, contact stasis and infections, eczematoid dermatitis, neurodermatitis, eczema, anogenital pruritus. It may also be useful as an adjunct in certain pyodermas, such as impetigo, during specific systemic antibiotic therapy for these infections.",
+                "Generic": "Neomycin Sulfate + Bacitracin Zinc"
+            },
+            {
+                "catwiseid": 9,
+                "title": "Cevion 1000",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e9.webp",
+                "company": "HEALTH CARE PHARMACEUTICAL LTD",
+                "price": 76.78,
+                "prevprice": 80.82,
+                "free": 5,
+                "Indications": "Scurvy is a disease that can be prevented and treated with vitamin C. It may be used in the following situations: pregnancy, breastfeeding, infection, trauma, burns, cold exposure, post-surgery, fever, stress, peptic ulcer, cancer, methaemoglobinaemia, and newborns fed unfortified formulas. Haematuria, dental caries, pyorrhea, acne, infertility, atherosclerosis, fractures, leg ulcers, hay fever, vascular thrombosis prophylaxis, levodopa toxicity, succinyl-choline toxicity, and arsenic toxicity are among the conditions for which it is given. Long-term vitamin C intake is necessary to lower the risk of stroke in the elderly.",
+                "Generic": "Vitamin C [Ascorbic acid]"
+            },
+            {
+                "catwiseid": 10,
+                "title": "Bet-A 0.50",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e1.webp",
+                "company": "The ACME Laboratories Ltd.",
+                "price": 0.68,
+                "prevprice": 0.72,
+                "free": 5,
+                "Indications": "Betamethasone Soluble Tablets are a type of drug known as a steroid. Corticosteroids is their full name. These corticosteroids are produced by the body and aid in the maintenance of health and well-being. Adding more corticosteroids to your body (such as Betamethasone Soluble Tablets) is an efficient strategy to treat a variety of disorders requiring inflammation. Betamethasone Soluble Tablets help to minimize inflammation, which could otherwise aggravate your disease. To obtain the most benefit from this medicine, you must take it on a regular basis. Corticosteroids can help with a variety of illnesses by reducing inflammation (redness, soreness, heat, and swelling).",
+                "Generic": "Betamethasone"
+            }
+        ]
+    },
+    {
+        "catid": 6,
+        "cattitle": "Spasm",
+        "catimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/spasm.png",
+        "catwise": [
+            {
+                "catwiseid": 1,
+                "title": "Neocort",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e1.webp",
+                "company": "The IBN SINA Pharmaceutical Industry Ltd.",
+                "price": 17.60,
+                "prevprice": 18.53,
+                "free": 5,
+                "Indications": "Neocort Cream/Ointment is demonstrated for the treatment of the taking after conditions where auxiliary bacterial disease is show, suspected or likely to happen: dermatitis counting atopic, puerile and discoid eczemas; prurigo nodularis; psoriasis (barring broad plaque psoriasis); neurodermatoses, counting lichen simplex, lichen planus; Seborrhoeic dermatitis; butt-centric and genital intertrigo; contact affectability responses; discoid lupus erythematosus. Neocort can too be utilized within the administration of creepy crawly chomps, thorny warm and otitis externa.",
+                "Generic": "Betamethasone + Neomycin Sulfate"
+            },
+            {
+                "catwiseid": 2,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e2.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 31.98,
+                "prevprice": 33.66,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 3,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e3.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 33.48,
+                "prevprice": 35.24,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 4,
+                "title": "Betameson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e4.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 42.75,
+                "prevprice": 45.00,
+                "free": 5,
+                "Indications": "Inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatitis, such as atopic eczema, contact dermatitis, etc.",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 5,
+                "title": "Prosalic Lotion 25 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e5.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 142.93,
+                "prevprice": 150.45,
+                "free": 5,
+                "Indications": "Eczema, Psoriasis, and other inflammatory, dry, and scaly skin disorders are treated with this Scalp preparation.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 6,
+                "title": "Betamesal",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e6.webp",
+                "company": "Incepta Pharmaceuticals Ltd",
+                "price": 95.00,
+                "prevprice": 100.00,
+                "free": 5,
+                "Indications": "This Scalp planning is utilized to treat fiery, dry and flaky skin disarranges, such as Dermatitis, Psoriasis.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 7,
+                "title": "Calamin M 100 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/default.webp",
+                "company": "Amico Laboratories Ltd",
+                "price": 38.00,
+                "prevprice": 40.00,
+                "free": 5,
+                "Indications": "Poison ivy, poison oak, and poison sumac are examples of mild skin irritations that can cause pain, itching, and discomfort. It also aids in the drying of seeping and weeping caused by these plants' irritation.",
+                "Generic": "Calamine + Zinc Oxide + Glycerine"
+            },
+            {
+                "catwiseid": 8,
+                "title": "Nebanol 20",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e8.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 41.86,
+                "prevprice": 44.06,
+                "free": 5,
+                "Indications": "This is indicated in the treatment of topical bacterial infections. This is particularly effective in atopic, contact stasis and infections, eczematoid dermatitis, neurodermatitis, eczema, anogenital pruritus. It may also be useful as an adjunct in certain pyodermas, such as impetigo, during specific systemic antibiotic therapy for these infections.",
+                "Generic": "Neomycin Sulfate + Bacitracin Zinc"
+            },
+            {
+                "catwiseid": 9,
+                "title": "Cevion 1000",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e9.webp",
+                "company": "HEALTH CARE PHARMACEUTICAL LTD",
+                "price": 76.78,
+                "prevprice": 80.82,
+                "free": 5,
+                "Indications": "Scurvy is a disease that can be prevented and treated with vitamin C. It may be used in the following situations: pregnancy, breastfeeding, infection, trauma, burns, cold exposure, post-surgery, fever, stress, peptic ulcer, cancer, methaemoglobinaemia, and newborns fed unfortified formulas. Haematuria, dental caries, pyorrhea, acne, infertility, atherosclerosis, fractures, leg ulcers, hay fever, vascular thrombosis prophylaxis, levodopa toxicity, succinyl-choline toxicity, and arsenic toxicity are among the conditions for which it is given. Long-term vitamin C intake is necessary to lower the risk of stroke in the elderly.",
+                "Generic": "Vitamin C [Ascorbic acid]"
+            },
+            {
+                "catwiseid": 10,
+                "title": "Bet-A 0.50",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e1.webp",
+                "company": "The ACME Laboratories Ltd.",
+                "price": 0.68,
+                "prevprice": 0.72,
+                "free": 5,
+                "Indications": "Betamethasone Soluble Tablets are a type of drug known as a steroid. Corticosteroids is their full name. These corticosteroids are produced by the body and aid in the maintenance of health and well-being. Adding more corticosteroids to your body (such as Betamethasone Soluble Tablets) is an efficient strategy to treat a variety of disorders requiring inflammation. Betamethasone Soluble Tablets help to minimize inflammation, which could otherwise aggravate your disease. To obtain the most benefit from this medicine, you must take it on a regular basis. Corticosteroids can help with a variety of illnesses by reducing inflammation (redness, soreness, heat, and swelling).",
+                "Generic": "Betamethasone"
+            }
+        ]
+    },
+    {
+        "catid": 7,
+        "cattitle": "Diarrhea",
+        "catimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/diarrhea.webp",
+        "catwise": [
+            {
+                "catwiseid": 1,
+                "title": "Neocort",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e1.webp",
+                "company": "The IBN SINA Pharmaceutical Industry Ltd.",
+                "price": 17.60,
+                "prevprice": 18.53,
+                "free": 5,
+                "Indications": "Neocort Cream/Ointment is demonstrated for the treatment of the taking after conditions where auxiliary bacterial disease is show, suspected or likely to happen: dermatitis counting atopic, puerile and discoid eczemas; prurigo nodularis; psoriasis (barring broad plaque psoriasis); neurodermatoses, counting lichen simplex, lichen planus; Seborrhoeic dermatitis; butt-centric and genital intertrigo; contact affectability responses; discoid lupus erythematosus. Neocort can too be utilized within the administration of creepy crawly chomps, thorny warm and otitis externa.",
+                "Generic": "Betamethasone + Neomycin Sulfate"
+            },
+            {
+                "catwiseid": 2,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e2.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 31.98,
+                "prevprice": 33.66,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 3,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e3.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 33.48,
+                "prevprice": 35.24,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 4,
+                "title": "Betameson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e4.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 42.75,
+                "prevprice": 45.00,
+                "free": 5,
+                "Indications": "Inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatitis, such as atopic eczema, contact dermatitis, etc.",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 5,
+                "title": "Prosalic Lotion 25 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e5.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 142.93,
+                "prevprice": 150.45,
+                "free": 5,
+                "Indications": "Eczema, Psoriasis, and other inflammatory, dry, and scaly skin disorders are treated with this Scalp preparation.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 6,
+                "title": "Betamesal",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e6.webp",
+                "company": "Incepta Pharmaceuticals Ltd",
+                "price": 95.00,
+                "prevprice": 100.00,
+                "free": 5,
+                "Indications": "This Scalp planning is utilized to treat fiery, dry and flaky skin disarranges, such as Dermatitis, Psoriasis.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 7,
+                "title": "Calamin M 100 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/default.webp",
+                "company": "Amico Laboratories Ltd",
+                "price": 38.00,
+                "prevprice": 40.00,
+                "free": 5,
+                "Indications": "Poison ivy, poison oak, and poison sumac are examples of mild skin irritations that can cause pain, itching, and discomfort. It also aids in the drying of seeping and weeping caused by these plants' irritation.",
+                "Generic": "Calamine + Zinc Oxide + Glycerine"
+            },
+            {
+                "catwiseid": 8,
+                "title": "Nebanol 20",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e8.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 41.86,
+                "prevprice": 44.06,
+                "free": 5,
+                "Indications": "This is indicated in the treatment of topical bacterial infections. This is particularly effective in atopic, contact stasis and infections, eczematoid dermatitis, neurodermatitis, eczema, anogenital pruritus. It may also be useful as an adjunct in certain pyodermas, such as impetigo, during specific systemic antibiotic therapy for these infections.",
+                "Generic": "Neomycin Sulfate + Bacitracin Zinc"
+            },
+            {
+                "catwiseid": 9,
+                "title": "Cevion 1000",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e9.webp",
+                "company": "HEALTH CARE PHARMACEUTICAL LTD",
+                "price": 76.78,
+                "prevprice": 80.82,
+                "free": 5,
+                "Indications": "Scurvy is a disease that can be prevented and treated with vitamin C. It may be used in the following situations: pregnancy, breastfeeding, infection, trauma, burns, cold exposure, post-surgery, fever, stress, peptic ulcer, cancer, methaemoglobinaemia, and newborns fed unfortified formulas. Haematuria, dental caries, pyorrhea, acne, infertility, atherosclerosis, fractures, leg ulcers, hay fever, vascular thrombosis prophylaxis, levodopa toxicity, succinyl-choline toxicity, and arsenic toxicity are among the conditions for which it is given. Long-term vitamin C intake is necessary to lower the risk of stroke in the elderly.",
+                "Generic": "Vitamin C [Ascorbic acid]"
+            },
+            {
+                "catwiseid": 10,
+                "title": "Bet-A 0.50",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e1.webp",
+                "company": "The ACME Laboratories Ltd.",
+                "price": 0.68,
+                "prevprice": 0.72,
+                "free": 5,
+                "Indications": "Betamethasone Soluble Tablets are a type of drug known as a steroid. Corticosteroids is their full name. These corticosteroids are produced by the body and aid in the maintenance of health and well-being. Adding more corticosteroids to your body (such as Betamethasone Soluble Tablets) is an efficient strategy to treat a variety of disorders requiring inflammation. Betamethasone Soluble Tablets help to minimize inflammation, which could otherwise aggravate your disease. To obtain the most benefit from this medicine, you must take it on a regular basis. Corticosteroids can help with a variety of illnesses by reducing inflammation (redness, soreness, heat, and swelling).",
+                "Generic": "Betamethasone"
+            }
+        ]
+    },
+    {
+        "catid": 8,
+        "cattitle": "Infection",
+        "catimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/infection.png",
+        "catwise": [
+            {
+                "catwiseid": 1,
+                "title": "Neocort",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e1.webp",
+                "company": "The IBN SINA Pharmaceutical Industry Ltd.",
+                "price": 17.60,
+                "prevprice": 18.53,
+                "free": 5,
+                "Indications": "Neocort Cream/Ointment is demonstrated for the treatment of the taking after conditions where auxiliary bacterial disease is show, suspected or likely to happen: dermatitis counting atopic, puerile and discoid eczemas; prurigo nodularis; psoriasis (barring broad plaque psoriasis); neurodermatoses, counting lichen simplex, lichen planus; Seborrhoeic dermatitis; butt-centric and genital intertrigo; contact affectability responses; discoid lupus erythematosus. Neocort can too be utilized within the administration of creepy crawly chomps, thorny warm and otitis externa.",
+                "Generic": "Betamethasone + Neomycin Sulfate"
+            },
+            {
+                "catwiseid": 2,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e2.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 31.98,
+                "prevprice": 33.66,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 3,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e3.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 33.48,
+                "prevprice": 35.24,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 4,
+                "title": "Betameson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e4.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 42.75,
+                "prevprice": 45.00,
+                "free": 5,
+                "Indications": "Inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatitis, such as atopic eczema, contact dermatitis, etc.",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 5,
+                "title": "Prosalic Lotion 25 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e5.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 142.93,
+                "prevprice": 150.45,
+                "free": 5,
+                "Indications": "Eczema, Psoriasis, and other inflammatory, dry, and scaly skin disorders are treated with this Scalp preparation.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 6,
+                "title": "Betamesal",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e6.webp",
+                "company": "Incepta Pharmaceuticals Ltd",
+                "price": 95.00,
+                "prevprice": 100.00,
+                "free": 5,
+                "Indications": "This Scalp planning is utilized to treat fiery, dry and flaky skin disarranges, such as Dermatitis, Psoriasis.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 7,
+                "title": "Calamin M 100 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/default.webp",
+                "company": "Amico Laboratories Ltd",
+                "price": 38.00,
+                "prevprice": 40.00,
+                "free": 5,
+                "Indications": "Poison ivy, poison oak, and poison sumac are examples of mild skin irritations that can cause pain, itching, and discomfort. It also aids in the drying of seeping and weeping caused by these plants' irritation.",
+                "Generic": "Calamine + Zinc Oxide + Glycerine"
+            },
+            {
+                "catwiseid": 8,
+                "title": "Nebanol 20",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e8.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 41.86,
+                "prevprice": 44.06,
+                "free": 5,
+                "Indications": "This is indicated in the treatment of topical bacterial infections. This is particularly effective in atopic, contact stasis and infections, eczematoid dermatitis, neurodermatitis, eczema, anogenital pruritus. It may also be useful as an adjunct in certain pyodermas, such as impetigo, during specific systemic antibiotic therapy for these infections.",
+                "Generic": "Neomycin Sulfate + Bacitracin Zinc"
+            },
+            {
+                "catwiseid": 9,
+                "title": "Cevion 1000",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e9.webp",
+                "company": "HEALTH CARE PHARMACEUTICAL LTD",
+                "price": 76.78,
+                "prevprice": 80.82,
+                "free": 5,
+                "Indications": "Scurvy is a disease that can be prevented and treated with vitamin C. It may be used in the following situations: pregnancy, breastfeeding, infection, trauma, burns, cold exposure, post-surgery, fever, stress, peptic ulcer, cancer, methaemoglobinaemia, and newborns fed unfortified formulas. Haematuria, dental caries, pyorrhea, acne, infertility, atherosclerosis, fractures, leg ulcers, hay fever, vascular thrombosis prophylaxis, levodopa toxicity, succinyl-choline toxicity, and arsenic toxicity are among the conditions for which it is given. Long-term vitamin C intake is necessary to lower the risk of stroke in the elderly.",
+                "Generic": "Vitamin C [Ascorbic acid]"
+            },
+            {
+                "catwiseid": 10,
+                "title": "Bet-A 0.50",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/eczema/e1.webp",
+                "company": "The ACME Laboratories Ltd.",
+                "price": 0.68,
+                "prevprice": 0.72,
+                "free": 5,
+                "Indications": "Betamethasone Soluble Tablets are a type of drug known as a steroid. Corticosteroids is their full name. These corticosteroids are produced by the body and aid in the maintenance of health and well-being. Adding more corticosteroids to your body (such as Betamethasone Soluble Tablets) is an efficient strategy to treat a variety of disorders requiring inflammation. Betamethasone Soluble Tablets help to minimize inflammation, which could otherwise aggravate your disease. To obtain the most benefit from this medicine, you must take it on a regular basis. Corticosteroids can help with a variety of illnesses by reducing inflammation (redness, soreness, heat, and swelling).",
+                "Generic": "Betamethasone"
+            }
+        ]
+    },
+    {
+        "catid": 9,
+        "cattitle": "Fever",
+        "catimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/fever.webp",
+        "catwise": [
+            {
+                "catwiseid": 1,
+                "title": "Neocort",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/fever/f1.webp",
+                "company": "The IBN SINA Pharmaceutical Industry Ltd.",
+                "price": 17.60,
+                "prevprice": 18.53,
+                "free": 5,
+                "Indications": "Neocort Cream/Ointment is demonstrated for the treatment of the taking after conditions where auxiliary bacterial disease is show, suspected or likely to happen: dermatitis counting atopic, puerile and discoid eczemas; prurigo nodularis; psoriasis (barring broad plaque psoriasis); neurodermatoses, counting lichen simplex, lichen planus; Seborrhoeic dermatitis; butt-centric and genital intertrigo; contact affectability responses; discoid lupus erythematosus. Neocort can too be utilized within the administration of creepy crawly chomps, thorny warm and otitis externa.",
+                "Generic": "Betamethasone + Neomycin Sulfate"
+            },
+            {
+                "catwiseid": 2,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/fever/f2.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 31.98,
+                "prevprice": 33.66,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 3,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/fever/f3.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 33.48,
+                "prevprice": 35.24,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 4,
+                "title": "Betameson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/fever/f4.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 42.75,
+                "prevprice": 45.00,
+                "free": 5,
+                "Indications": "Inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatitis, such as atopic eczema, contact dermatitis, etc.",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 5,
+                "title": "Prosalic Lotion 25 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/fever/f5.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 142.93,
+                "prevprice": 150.45,
+                "free": 5,
+                "Indications": "Eczema, Psoriasis, and other inflammatory, dry, and scaly skin disorders are treated with this Scalp preparation.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 6,
+                "title": "Betamesal",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/fever/f6.webp",
+                "company": "Incepta Pharmaceuticals Ltd",
+                "price": 95.00,
+                "prevprice": 100.00,
+                "free": 5,
+                "Indications": "This Scalp planning is utilized to treat fiery, dry and flaky skin disarranges, such as Dermatitis, Psoriasis.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 7,
+                "title": "Calamin M 100 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/fever/f7.webp",
+                "company": "Amico Laboratories Ltd",
+                "price": 38.00,
+                "prevprice": 40.00,
+                "free": 5,
+                "Indications": "Poison ivy, poison oak, and poison sumac are examples of mild skin irritations that can cause pain, itching, and discomfort. It also aids in the drying of seeping and weeping caused by these plants' irritation.",
+                "Generic": "Calamine + Zinc Oxide + Glycerine"
+            },
+            {
+                "catwiseid": 8,
+                "title": "Nebanol 20",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/fever/f8.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 41.86,
+                "prevprice": 44.06,
+                "free": 5,
+                "Indications": "This is indicated in the treatment of topical bacterial infections. This is particularly effective in atopic, contact stasis and infections, eczematoid dermatitis, neurodermatitis, eczema, anogenital pruritus. It may also be useful as an adjunct in certain pyodermas, such as impetigo, during specific systemic antibiotic therapy for these infections.",
+                "Generic": "Neomycin Sulfate + Bacitracin Zinc"
+            },
+            {
+                "catwiseid": 9,
+                "title": "Cevion 1000",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/fever/f9.webp",
+                "company": "HEALTH CARE PHARMACEUTICAL LTD",
+                "price": 76.78,
+                "prevprice": 80.82,
+                "free": 5,
+                "Indications": "Scurvy is a disease that can be prevented and treated with vitamin C. It may be used in the following situations: pregnancy, breastfeeding, infection, trauma, burns, cold exposure, post-surgery, fever, stress, peptic ulcer, cancer, methaemoglobinaemia, and newborns fed unfortified formulas. Haematuria, dental caries, pyorrhea, acne, infertility, atherosclerosis, fractures, leg ulcers, hay fever, vascular thrombosis prophylaxis, levodopa toxicity, succinyl-choline toxicity, and arsenic toxicity are among the conditions for which it is given. Long-term vitamin C intake is necessary to lower the risk of stroke in the elderly.",
+                "Generic": "Vitamin C [Ascorbic acid]"
+            },
+            {
+                "catwiseid": 10,
+                "title": "Bet-A 0.50",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/fever/f10.webp",
+                "company": "The ACME Laboratories Ltd.",
+                "price": 0.68,
+                "prevprice": 0.72,
+                "free": 5,
+                "Indications": "Betamethasone Soluble Tablets are a type of drug known as a steroid. Corticosteroids is their full name. These corticosteroids are produced by the body and aid in the maintenance of health and well-being. Adding more corticosteroids to your body (such as Betamethasone Soluble Tablets) is an efficient strategy to treat a variety of disorders requiring inflammation. Betamethasone Soluble Tablets help to minimize inflammation, which could otherwise aggravate your disease. To obtain the most benefit from this medicine, you must take it on a regular basis. Corticosteroids can help with a variety of illnesses by reducing inflammation (redness, soreness, heat, and swelling).",
+                "Generic": "Betamethasone"
+            }
+        ]
+    },
+    {
+        "catid": 10,
+        "cattitle": "Cough and Flu",
+        "catimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/caugh.webp",
+        "catwise": [
+            {
+                "catwiseid": 1,
+                "title": "Neocort",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/cough/c1.webp",
+                "company": "The IBN SINA Pharmaceutical Industry Ltd.",
+                "price": 17.60,
+                "prevprice": 18.53,
+                "free": 5,
+                "Indications": "Neocort Cream/Ointment is demonstrated for the treatment of the taking after conditions where auxiliary bacterial disease is show, suspected or likely to happen: dermatitis counting atopic, puerile and discoid eczemas; prurigo nodularis; psoriasis (barring broad plaque psoriasis); neurodermatoses, counting lichen simplex, lichen planus; Seborrhoeic dermatitis; butt-centric and genital intertrigo; contact affectability responses; discoid lupus erythematosus. Neocort can too be utilized within the administration of creepy crawly chomps, thorny warm and otitis externa.",
+                "Generic": "Betamethasone + Neomycin Sulfate"
+            },
+            {
+                "catwiseid": 2,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/cough/c2.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 31.98,
+                "prevprice": 33.66,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 3,
+                "title": "Betson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/cough/c3.webp",
+                "company": "Opsonin Pharma Limited",
+                "price": 33.48,
+                "prevprice": 35.24,
+                "free": 5,
+                "Indications": "Betamethasone Dipropionate cream and ointment is indicated for the relief of the inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatoses. These include-",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 4,
+                "title": "Betameson",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/cough/c4.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 42.75,
+                "prevprice": 45.00,
+                "free": 5,
+                "Indications": "Inflammatory and pruritic manifestations of resistant or severe corticosteroid-responsive dermatitis, such as atopic eczema, contact dermatitis, etc.",
+                "Generic": "Betamethasone Dipropionate"
+            },
+            {
+                "catwiseid": 5,
+                "title": "Prosalic Lotion 25 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/cough/c5.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 142.93,
+                "prevprice": 150.45,
+                "free": 5,
+                "Indications": "Eczema, Psoriasis, and other inflammatory, dry, and scaly skin disorders are treated with this Scalp preparation.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 6,
+                "title": "Betamesal",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/cough/c6.webp",
+                "company": "Incepta Pharmaceuticals Ltd",
+                "price": 95.00,
+                "prevprice": 100.00,
+                "free": 5,
+                "Indications": "This Scalp planning is utilized to treat fiery, dry and flaky skin disarranges, such as Dermatitis, Psoriasis.",
+                "Generic": "Betamethasone Dipropionate + Salicylic Acid"
+            },
+            {
+                "catwiseid": 7,
+                "title": "Calamin M 100 ml",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/cough/c7.webp",
+                "company": "Amico Laboratories Ltd",
+                "price": 38.00,
+                "prevprice": 40.00,
+                "free": 5,
+                "Indications": "Poison ivy, poison oak, and poison sumac are examples of mild skin irritations that can cause pain, itching, and discomfort. It also aids in the drying of seeping and weeping caused by these plants' irritation.",
+                "Generic": "Calamine + Zinc Oxide + Glycerine"
+            },
+            {
+                "catwiseid": 8,
+                "title": "Nebanol 20",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/cough/c8.webp",
+                "company": "Square Pharmaceuticals Limited",
+                "price": 41.86,
+                "prevprice": 44.06,
+                "free": 5,
+                "Indications": "This is indicated in the treatment of topical bacterial infections. This is particularly effective in atopic, contact stasis and infections, eczematoid dermatitis, neurodermatitis, eczema, anogenital pruritus. It may also be useful as an adjunct in certain pyodermas, such as impetigo, during specific systemic antibiotic therapy for these infections.",
+                "Generic": "Neomycin Sulfate + Bacitracin Zinc"
+            },
+            {
+                "catwiseid": 9,
+                "title": "Cevion 1000",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/cough/c9.webp",
+                "company": "HEALTH CARE PHARMACEUTICAL LTD",
+                "price": 76.78,
+                "prevprice": 80.82,
+                "free": 5,
+                "Indications": "Scurvy is a disease that can be prevented and treated with vitamin C. It may be used in the following situations: pregnancy, breastfeeding, infection, trauma, burns, cold exposure, post-surgery, fever, stress, peptic ulcer, cancer, methaemoglobinaemia, and newborns fed unfortified formulas. Haematuria, dental caries, pyorrhea, acne, infertility, atherosclerosis, fractures, leg ulcers, hay fever, vascular thrombosis prophylaxis, levodopa toxicity, succinyl-choline toxicity, and arsenic toxicity are among the conditions for which it is given. Long-term vitamin C intake is necessary to lower the risk of stroke in the elderly.",
+                "Generic": "Vitamin C [Ascorbic acid]"
+            },
+            {
+                "catwiseid": 10,
+                "title": "Bet-A 0.50",
+                "singleimg": "https://raw.githubusercontent.com/sabuj-mojumdar/osudpotro_img/main/medicine_category/category_wise/cough/c10.webp",
+                "company": "The ACME Laboratories Ltd.",
+                "price": 0.68,
+                "prevprice": 0.72,
+                "free": 5,
+                "Indications": "Betamethasone Soluble Tablets are a type of drug known as a steroid. Corticosteroids is their full name. These corticosteroids are produced by the body and aid in the maintenance of health and well-being. Adding more corticosteroids to your body (such as Betamethasone Soluble Tablets) is an efficient strategy to treat a variety of disorders requiring inflammation. Betamethasone Soluble Tablets help to minimize inflammation, which could otherwise aggravate your disease. To obtain the most benefit from this medicine, you must take it on a regular basis. Corticosteroids can help with a variety of illnesses by reducing inflammation (redness, soreness, heat, and swelling).",
+                "Generic": "Betamethasone"
+            }
+        ]
+    }
+]
